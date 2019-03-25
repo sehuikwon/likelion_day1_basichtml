@@ -1,0 +1,11 @@
+width
+height
+border
+position
+float
+
+.은 클래스
+#은 아이디
+
+padding
+margin
